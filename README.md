@@ -15,17 +15,17 @@ Demo: https://makcon.net/entry/%EB%AA%A8%EB%B0%94%EC%9D%BC-test
 </br>
 </br>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/makcon-25328.appspot.com/o/Gerni%2FGerni4.jpg?alt=media&token=c95d5087-42b4-448a-9f93-4b3c9ec4ff80"/ style="width: 380px;">
+<img src="https://firebasestorage.googleapis.com/v0/b/makcon-25328.appspot.com/o/Gerni%2FGerni4.jpg?alt=media&token=c95d5087-42b4-448a-9f93-4b3c9ec4ff80"/>
 
 </br>
 </br>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/makcon-25328.appspot.com/o/Gerni%2FGerni3.jpg?alt=media&token=49bd9cb7-c4f0-4315-b4ff-bf16eba60c66"/ style="width: 380px;">
+<img src="https://firebasestorage.googleapis.com/v0/b/makcon-25328.appspot.com/o/Gerni%2FGerni3.jpg?alt=media&token=49bd9cb7-c4f0-4315-b4ff-bf16eba60c66"/>
 
 </br>
 </br>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/makcon-25328.appspot.com/o/Gerni%2FGerni2.jpg?alt=media&token=cd03abdc-0b2a-4800-882c-abc1a80af75b"/ style="width: 380px;">
+<img src="https://firebasestorage.googleapis.com/v0/b/makcon-25328.appspot.com/o/Gerni%2FGerni2.jpg?alt=media&token=cd03abdc-0b2a-4800-882c-abc1a80af75b"/>
 
 </br>
 </br>
