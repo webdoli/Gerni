@@ -1,0 +1,8 @@
+{
+    "name": [ "./img/nameQuestion.jpg" ],
+    "job" : [ "./img/jobQuestion.gif" ],
+    "age" : [ "./img/ageQuestion.gif" ],
+    "relation" : [ "./img/relationQuestion.gif" ],
+    "body" : [ "./img/bodyQuestion.gif" ],
+    "pepe" : [ "./img/pepe.jpg" ]
+}

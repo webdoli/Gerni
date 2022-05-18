@@ -1,0 +1,8 @@
+{
+
+    "level_A" : ["./img/levelA01.jpg"],
+    "level_B" : ["./img/levelB01.jpg", "./img/levelB.jpg"],
+    "level_C" : ["./img/levelC.jpg", "./img/levelC02.jpg"],
+    "level_D" : ["./img/levelD02.jpg"] 
+
+}
