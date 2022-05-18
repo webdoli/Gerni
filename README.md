@@ -1,4 +1,4 @@
-# Structure_Basic
+# 인성탐지기 [Gerni Ver01]
 
 Project is composed of three.js editor`s basic structure.
 
